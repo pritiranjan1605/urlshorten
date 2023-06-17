@@ -43,8 +43,8 @@ body{
     border: none;
     background-color: white;
     text-align: center;
-    font-family: cursive;
-    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+/*     font-style: italic; */
     font-weight: 700;
 }
 .container45 .pannel2 input{
@@ -52,8 +52,8 @@ body{
     border: none;
     background-color: white;
     text-align: center;
-    font-family: cursive;
-    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+/*     font-style: italic; */
     font-weight: 700;
 }
 .container45 .pannel1 button:hover{
@@ -69,13 +69,13 @@ body{
 .container45 .pannel1 button{
     width: 20vw;
     border: none;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 .container45 .pannel2 button{
     width: 25vw;
     border: none;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 @media(max-width:700px){
